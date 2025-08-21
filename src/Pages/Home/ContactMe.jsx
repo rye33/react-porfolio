@@ -125,7 +125,7 @@ export const ContactMe = () => {
         </label>
         <div className="contact--btn">
           <button className="btn btn-primary">
-            <i class="bx bx-send"></i> Send Message{" "}
+            <i class="bx bx-send"></i> Send Message
           </button>
         </div>
       </form>

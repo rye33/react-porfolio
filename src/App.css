@@ -589,7 +589,11 @@ input[type="checkbox"] {
 
 @media only screen and (max-width: 1200px) {
   .hero--section,
-  .about--section {
+  .about--section,
+  .skills--section,
+  .contact--section {
+    padding-left: 40px;
+    padding-right: 40px;
     display: flex;
     flex-direction: column;
     padding-bottom: 70px;
@@ -597,9 +601,9 @@ input[type="checkbox"] {
   }
 
   .social-media a {
-    width: 28px;
-    height: 28px;
-    font-size: 16px;
+    width: 32px;
+    height: 32px;
+    font-size: 20px;
   }
   .hero--section--img > img,
   .about--section--img > img,
