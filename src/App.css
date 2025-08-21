@@ -437,6 +437,7 @@ span {
   justify-content: center;
   padding: 133.3px 90.3px;
   margin-top: 4rem;
+  gap: 4rem;
 }
 .contact--section--header {
   font-size: 40px;
