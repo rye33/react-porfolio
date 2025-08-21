@@ -12,8 +12,8 @@ export default function AboutMe() {
             About <span>Me</span>
           </h1>
           <p className="about--section-description">
-            Passionate IT professional with 5+ years of experience as
-            Information Systems Specialist and 2+ years of experience Data as
+            Passionate IT professional with 4+ years of experience as
+            Information Systems Specialist and 2+ years of experience as Data
             Integrity Officer. Skilled in Oracle Business Intelligence
             Publisher, now known as Oracle Analytics Publisher and ARINC airport
             systems and technologies, with a focus on seamless user experiences.

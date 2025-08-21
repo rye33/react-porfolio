@@ -29,6 +29,7 @@ span {
   color: var(--primary);
 }
 .btn {
+  display: flex;
   font-family: "Roboto";
   display: inline-block;
   padding: 14px 32px;
@@ -596,9 +597,9 @@ input[type="checkbox"] {
   }
 
   .social-media a {
-    width: 32px;
-    height: 32px;
-    font-size: 20px;
+    width: 28px;
+    height: 28px;
+    font-size: 16px;
   }
   .hero--section--img > img,
   .about--section--img > img,
@@ -610,8 +611,8 @@ input[type="checkbox"] {
     align-items: center;
     width: 100%;
   }
-  .skills--section--card--content {
-    align-items: center;
+  .skills--section--card--content p {
+    text-align: center;
   }
   .skills--section--container,
   .about--section,
