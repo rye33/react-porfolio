@@ -179,6 +179,7 @@ span {
     transform: translateY(0);
   }
 }
+
 .social-media a {
   display: inline-flex;
   justify-content: center;
@@ -191,7 +192,7 @@ span {
   font-size: 32px;
   text-decoration: none;
   color: var(--primary);
-  margin: 1rem 1rem 1rem 0;
+  margin: 0.5rem;
 }
 .social-media a:hover {
   transform: scale(1.2) translateY(-10px);
@@ -600,9 +601,10 @@ input[type="checkbox"] {
   }
 
   .social-media a {
+    margin-top: 2rem;
     width: 32px;
     height: 32px;
-    font-size: 20px;
+    font-size: 22px;
   }
   .hero--section--img > img,
   .about--section--img > img,
