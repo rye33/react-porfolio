@@ -438,7 +438,7 @@ span {
   flex-direction: row-reverse;
   justify-content: center;
   padding: 133.3px 90.3px;
-  gap: 4rem;
+  margin-top: 8rem;
 }
 .contact--section--header {
   font-size: 40px;
@@ -613,7 +613,7 @@ input[type="checkbox"] {
   }
   .skills--section--card {
     align-items: center;
-    width: 100%;
+    width: 80%;
   }
   .skills--section--card--content p {
     text-align: center;
